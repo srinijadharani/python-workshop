@@ -1,0 +1,11 @@
+Hello! I'm Nimbus.
+I can say Hello in 4 languages!
+Hola! (Spanish)
+Ciao! (Italian)
+Hallo! (German)
+Bonjour! (French)
+I can even say goodbye in four languages.
+Adios! (Spanish)
+Addio! (Italian)
+Tschus! (German)
+Au Revoir! (French)
